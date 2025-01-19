@@ -20,5 +20,11 @@
     "dependencies": {
         "gsap": "^3.12.7",
         "vuedraggable": "^4.1.0"
+    },
+    {
+        "engines": {
+          "node": ">=16.0.0",
+          "npm": ">=8.0.0"
+        }
     }
 }
